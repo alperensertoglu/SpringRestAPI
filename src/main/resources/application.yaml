@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: SpringRestAPI
+    version: 1.0.0
+server:
+  port: 8081
